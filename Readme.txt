@@ -11,4 +11,3 @@ So this praq4 can output on screen the correct file sizes and also for showing c
 This is how will my new compression programs will look like, if there would be more.
 
 Gerald R Tamayo (c) 2022, geraldrtamayo@yahoo.com
-
